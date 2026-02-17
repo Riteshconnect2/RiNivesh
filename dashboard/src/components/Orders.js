@@ -1,22 +1,25 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
+import { BASE_URL } from "../config";
 
 import "./Oders.css";
 
 const Orders = () => {
   const [orders, setOrders] = useState([]);
 
-  useEffect(() => {
-    axios
-      .get("http://localhost:3002/allOrders")
-      .then((res) => {
-        setOrders(res.data);
-      })
-      .catch((err) => {
-        console.error(err);
-      });
-  }, []);
+
+useEffect(() => {
+  axios
+    .get(`${BASE_URL}/allOrders`)
+    .then((res) => {
+      setOrders(res.data);
+    })
+    .catch((err) => {
+      console.error(err);
+    });
+}, []);
+
 
   return (
     <div className="orders">
