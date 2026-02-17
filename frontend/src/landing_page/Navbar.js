@@ -35,10 +35,10 @@ function Navbar() {
                   <li class="nav-item active">
                      <Link class="nav-link" to="/support">Support<span class="sr-only">(current)</span></Link>
                   </li>
-                  <li class="nav-item active">
+                  {/* <li class="nav-item active">
                      <Link  className='btn btn-outline-primary' to="/signUp">Signup<span class="sr-only">(current)</span>
                      </Link>
-                  </li>
+                  </li> */}
                </ul>
 
             </div>

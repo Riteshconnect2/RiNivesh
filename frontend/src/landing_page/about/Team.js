@@ -37,7 +37,7 @@ function Team() {
           </p>
         </div>
       </div>
-      <Link to='/signUp'><button className="btn btn-primary">Signup now</button></Link>
+      {/* <Link to='/signUp'><button className="btn btn-primary">Signup now</button></Link> */}
     </div>
     
     </>
