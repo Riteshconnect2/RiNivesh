@@ -10,7 +10,7 @@ function Hero() {
   };
 
   const goToDashboard = () => {
-    window.location.href = "http://localhost:3001/"; // put your dashboard website link here
+    window.location.href = "https://riniveshdashboard.vercel.app/";  
   };
 
   return (
