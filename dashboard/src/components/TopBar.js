@@ -7,7 +7,7 @@ const TopBar = () => {
     <>
       <div className="top-nav ">
         <div className="left">
-          <img src="Icon.png" alt="icon" height={50} width={250} />
+          <img src="Icon.png" alt="Rinivesh logo" height={50} width={250} />
         </div>
 
         <div className="center">
