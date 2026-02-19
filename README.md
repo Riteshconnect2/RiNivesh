@@ -140,6 +140,10 @@ http://localhost:3001
 # 📸 Screenshots
 
 *<img width="1899" height="869" alt="image" src="https://github.com/user-attachments/assets/00ec5360-0c66-48a0-8184-7a1a00378f19" />
+<img width="1886" height="592" alt="image" src="https://github.com/user-attachments/assets/79436f61-fea6-4819-93d5-0c52d2007330" />
+<img width="1885" height="859" alt="image" src="https://github.com/user-attachments/assets/f02f3968-c60d-4393-8a2c-10e4d2a93948" />
+
+
 *
 
 ---
