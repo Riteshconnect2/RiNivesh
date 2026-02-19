@@ -32,7 +32,7 @@ function Stats() {
                      
                 </div>
                 <div className='col-6'>
-                    <img src='Icon1.png' width={680} height={550} className='mt-3'/>
+                    <img src='Icon1.png' alt='icon' width={680} height={550} className='mt-3'/>
 
                 </div>
             </div>

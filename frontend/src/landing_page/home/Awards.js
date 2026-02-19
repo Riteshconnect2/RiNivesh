@@ -9,7 +9,7 @@ function Awards() {
                 </div>
                 <div className='col-6'>
                     <h1>Stock broker in India</h1>
-                     <p><img src='Icon.png' height={80} width={300}/></p>
+                     <p><img src='Icon.png'alt='Icon' height={80} width={300}/></p>
                     <div className='row mt-5'>
                         <div className='col-6 '>
                             <ul>
@@ -41,7 +41,7 @@ function Awards() {
                         </div>
 
                     </div>
-                    <img src='Media/Images/pressLogos.png' className='mt-5'/>
+                    <img src='Media/Images/pressLogos.png' alt='logo' className='mt-5'/>
 
                 </div>
 

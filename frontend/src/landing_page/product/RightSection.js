@@ -10,13 +10,13 @@ function RightSection({ImageUrl, PlayStore, AppStore , ProductName, ProductDescp
                     <p className='fs-5 mt-3 text-muted'> {ProductDescptn}
                     </p>
                      <div className='p-2'>
-                        <img src={PlayStore} className='p-3'/>
-                        <img src={AppStore}/>
+                        <img src={PlayStore} alt='img' className='p-3'/>
+                        <img src={AppStore} alt='img'/>
                      </div>
                 </div>
                 
                 <div className='col-4'>
-                    <img src={ImageUrl} height={400} width={600}/>
+                    <img src={ImageUrl} alt='img' height={400} width={600}/>
                 </div>
                  
             </div>
