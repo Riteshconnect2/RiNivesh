@@ -87,13 +87,7 @@ cd backend
 npm install
 ```
 
-Create a `.env` file inside **backend/** and add:
-
-```
-MONGO_URL=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-PORT=5000
-```
+  
 
 Run backend:
 
